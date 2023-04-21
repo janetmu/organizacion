@@ -7,9 +7,9 @@
 .formulario form {
   width: 80%;
   background: #F7F7F7;
- box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
- border-radius: 20px;
- padding: 8px 100px;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+  padding: 8px 100px;
 }
 
 .formulario h2 {
