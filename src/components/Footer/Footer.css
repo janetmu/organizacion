@@ -9,10 +9,38 @@
     justify-content: space-around;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.footer strong{
+    text-align: center;
 }
 
 .redes img{
     padding: 0px 15px;
 }
+
+@media (width:360px) {
+    .footer{
+        flex-wrap: wrap;
+        font-size: 14px;
+        justify-content: space-between;
+        margin-bottom: 12px;
+    }
+
+   
+    .redes img{
+        margin-top: -32px;
+        padding: 0px 4px;
+    }
+
+    .footer strong{
+        margin-top: -24px;
+        padding: 0px 4px;
+    }
+ 
+
+    
+}
+
 
