@@ -27,3 +27,15 @@
     flex-wrap: wrap;
 }
 
+
+@media (width:360px) {
+
+    .equipo{
+       font-size: 21px;
+    }
+
+    .equipo h3{
+       padding-bottom: 4px;
+}
+
+}
