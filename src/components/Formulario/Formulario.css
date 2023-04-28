@@ -20,3 +20,18 @@
   color: #212121;
 }
 
+@media (width:360px) {
+  
+  .formulario {
+    margin: 40px 12px;
+  }
+
+  .formulario form {
+    padding: 8px 20px;
+  }
+    
+  .formulario h2 {
+    font-size: 21px;
+  }
+}
+
