@@ -31,7 +31,7 @@ const Footer = () => {
         </a>
       </div>
       <img src="/img/Logo.png" alt="org" />
-      <strong> Desarrollado con <AiFillHeart color="red"/> por Janet M.U </strong>
+      <strong> Made with <AiFillHeart color="red"/> by Janet M.U </strong>
     </footer>
   );
 };
