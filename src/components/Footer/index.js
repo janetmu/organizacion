@@ -1,4 +1,5 @@
 import "./Footer.css";
+import { AiFillHeart } from "react-icons/ai";
 
 const Footer = () => {
   return (
@@ -30,7 +31,7 @@ const Footer = () => {
         </a>
       </div>
       <img src="/img/Logo.png" alt="org" />
-      <strong>Desarrollado por Janet M.U</strong>
+      <strong> Desarrollado con <AiFillHeart color="red"/> por Janet M.U </strong>
     </footer>
   );
 };
